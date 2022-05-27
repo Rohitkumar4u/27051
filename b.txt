@@ -1,2 +1,3 @@
 local to git
 git to local
+again local to git
